@@ -3,7 +3,7 @@
 **Effective date:** 2026-01-30  
 **App:** Parad0x Compress  
 **Developer:** Parad0x Labs  
-**Contact:** [YOUR SUPPORT EMAIL]
+**Contact:** help@parad0xlabs.com
 
 This Privacy Policy explains how Parad0x Compress (“the app”) handles data. The app is designed to compress photos and videos primarily **on-device** and does not require user accounts.
 
@@ -103,4 +103,4 @@ We may update this policy from time to time. We will update the “Effective dat
 
 ## Contact Us
 If you have questions about privacy, contact:  
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** help@parad0xlabs.com
