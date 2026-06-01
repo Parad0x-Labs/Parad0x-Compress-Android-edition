@@ -5,3 +5,7 @@
 # Parad0x Compress Android
 
 Android app shell for Parad0x Compress.
+
+<p align="center">
+  <img src="./docs/assets/github-footer-parad0xlabs.png" alt="NULL - Parad0xLabs open source systems" width="100%" />
+</p>
